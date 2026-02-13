@@ -1,12 +1,23 @@
 [
     {
-        "id": "",
-        "category": "",
-        "logo": "",
-        "title": "",
+        "id": "67267",
+        "category": "גלי ישראל",
+        "logo": "https://gly.co.il/Upload/Media/Images/b1648eca-2ef3-447a-a1f0-0bf276b706b1.png",
+        "title": "גלי ישראל - בזווית אישית_ עם הד_ר עידו נתניהו | שישי _ 11:00 | 13/02/2026",
         "description": "",
         "date": "",
-        "stream_url": "",
-        "media_type": ""
+        "stream_url": "https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/idonetan130226.mp3",
+        "media_type": "audio"
+    },
+    {
+        "id": "67268",
+        "category": "גלי ישראל",
+        "logo": "https://gly.co.il/Upload/Media/Images/038026c9-1ad4-4018-8e75-1fc5e9cf7ebd.jpg",
+        "title": "גלי ישראל - תוכנית הנדל״ן של ישראל | 13/02/2026",
+        "description": "",
+        "date": "",
+        "stream_url": "https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/anadlan130226.mp3",
+        "media_type": "audio"
     }
+
 ]
