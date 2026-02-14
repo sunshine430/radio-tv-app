@@ -1,0 +1,622 @@
+[
+    {
+        "id": "17",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-2000s.png",
+        "title": "רדיוס - 100% 2000s",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/1002000s/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "18",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-70s.png",
+        "title": "רדיוס - 100% 70's",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/10070s/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "19",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-80s.png",
+        "title": "רדיוס - 100% 80's",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/10080s/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "20",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-90s.png",
+        "title": "רדיוס - 100% 90's",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "21",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png",
+        "title": "רדיוס - 100% Blues",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Blues/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "22",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-britpop.png",
+        "title": "רדיוס - 100% Brit Pop",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Britpop/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "23",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-cafe.png",
+        "title": "רדיוס - 100% Café",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Cafe/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "24",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-chillout.png",
+        "title": "רדיוס - 100% Chillout",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Chillout/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "25",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classic.png",
+        "title": "רדיוס - 100% Classic",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Classic/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "26",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classicrock.png",
+        "title": "רדיוס - 100% Classic Rock",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100ClassicRock/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "27",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-club.png",
+        "title": "רדיוס - 100% Club",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Club/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "28",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-country.png",
+        "title": "רדיוס - 100% Country",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Country/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "29",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-covers.png",
+        "title": "רדיוס - 100% Covers",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Covers/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "30",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-djset.png",
+        "title": "רדיוס - 100% DJSet",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Djset/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "31",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-dance.png",
+        "title": "רדיוס - 100% Dance",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Dance/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "32",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-deep.png",
+        "title": "רדיוס - 100% Deep",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Deep/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "33",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-disney.png",
+        "title": "רדיוס - 100% Disney",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "34",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-drivetime.png",
+        "title": "רדיוס - 100% Drivetime",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Drivetime/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "35",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-french.png",
+        "title": "רדיוס - 100% France",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100France/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "36",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-gamer.png",
+        "title": "רדיוס - 100% Gamer",
+        "description": "",
+        "date": "",
+        "stream_url": "https://api.audius.co/v1/playlists/3ArEk/stream",
+        "media_type": "video"
+    },
+    {
+        "id": "37",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-greek.png",
+        "title": "רדיוס - 100% Greek",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Greek/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "38",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hafla.png",
+        "title": "רדיוס - 100% Hafla",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "39",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hiphop.png",
+        "title": "רדיוס - 100% Hiphop",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Hiphop/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "40",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hits.png",
+        "title": "רדיוס - 100% Hits",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Hits/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "41",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-israeli.png",
+        "title": "רדיוס - 100% Israeli",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "42",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-italian.png",
+        "title": "רדיוס - 100% Italian",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Italian/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "43",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-jazz.png",
+        "title": "רדיוס - 100% Jazz",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "44",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kpop.png",
+        "title": "רדיוס - 100% K-Pop",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "45",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-karaoke.png",
+        "title": "רדיוס - 100% Karaoke",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100karaoke/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "46",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kids.png",
+        "title": "רדיוס - 100% Kids",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "47",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png",
+        "title": "רדיוס - 100% Latin",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "48",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-legends.png",
+        "title": "רדיוס - 100% Legends",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Legends/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "49",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-live.png",
+        "title": "רדיוס - 100% Live",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "50",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-love.png",
+        "title": "רדיוס - 100% Love",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Love/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "51",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-mizrachit.png",
+        "title": "רדיוס - 100% Mizrachit",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "52",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-movies.png",
+        "title": "רדיוס - 100% Movies",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "53",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-no1.png",
+        "title": "רדיוס - 100% No.1",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Number1/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "54",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-nostalgia.png",
+        "title": "רדיוס - 100% Nostalgia",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "55",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-oldies.png",
+        "title": "רדיוס - 100% Oldies",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "56",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png",
+        "title": "רדיוס - 100% Relax",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "57",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-retro.png",
+        "title": "רדיוס - 100% Retro",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "58",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-rock.png",
+        "title": "רדיוס - 100% Rock",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Rock/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "59",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-russian.png",
+        "title": "רדיוס - 100% Russian",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/891Digital/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "60",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-selfie.png",
+        "title": "רדיוס - 100% Selfie",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Selfie/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "61",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-standup.png",
+        "title": "רדיוס - 100% Stand-up",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "62",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tiktok.png",
+        "title": "רדיוס - 100% TikTok",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "63",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png",
+        "title": "רדיוס - 100% Top40",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "64",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/x-trance.png",
+        "title": "רדיוס - 100% Trance",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Trance/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "65",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/tw-workout.png",
+        "title": "רדיוס - 100% Workout",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Workout/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "66",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-world.png",
+        "title": "רדיוס - 100% World Music",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100World/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "67",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-yehudi.png",
+        "title": "רדיוס - 100% יהודי",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100yehudi/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "68",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-shlomo.png",
+        "title": "רדיוס - 100% שלמה ארצי",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Shlomo/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "69",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-100fm.png",
+        "title": "רדיוס - 100FM שידור חי",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "70",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hospitals.png",
+        "title": "רדיוס - Loewenstein",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Hospital/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "71",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-eurovision.png",
+        "title": "רדיוס - Special Eurovision",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Special/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "72",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tomer.png",
+        "title": "רדיוס - Tomer Maizner",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Tomer/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "73",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-vip.png",
+        "title": "רדיוס - Vip Digital",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Vip/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "74",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hot.png",
+        "title": "רדיוס - ים תיכוני לוהט",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/91Hot/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "75",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-news12.png",
+        "title": "רדיוס - מבזק השעה חדשות 12",
+        "description": "",
+        "date": "",
+        "stream_url": "http://ff_engine.streamgates.net/Ch10News.mp3",
+        "media_type": "audio"
+    },
+    {
+        "id": "76",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-pride.png",
+        "title": "רדיוס - ספיישל שבוע הגאווה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Taklitia/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "77",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-history.png",
+        "title": "רדיוס - עושים היסטוריה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100History/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "78",
+        "category": "רדיוס",
+        "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png",
+        "title": "רדיוס - ערוץ הילדים",
+        "description": "",
+        "date": "",
+        "stream_url": "https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio",
+        "media_type": "video"
+    }
+]
