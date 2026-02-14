@@ -1,0 +1,762 @@
+[
+    {
+        "id": "100",
+        "category": "רדיו ישראלי",
+        "logo": "https://www.sport5.co.il/Images/Rebrand/sport5og.png",
+        "title": "ספורט 5",
+        "description": "",
+        "date": "",
+        "stream_url": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8",
+        "media_type": "video"
+    },
+    {
+        "id": "1",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/29.jpg",
+        "title": "גלי ישראל",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "2",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/9.jpg",
+        "title": "103 FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "100",
+        "category": "רדיו ישראלי",
+        "logo": "https://www.sport5.co.il/Images/Rebrand/sport5og.png",
+        "title": "ספורט 5 רדיו",
+        "description": "",
+        "date": "",
+        "stream_url": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8",
+        "media_type": "video"
+    },
+    {
+        "id": "3",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/4.jpg",
+        "title": "תל אביב 102FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://102.livecdn.biz/102fm_mp3",
+        "media_type": "video"
+    },
+    {
+        "id": "4",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/16.jpg",
+        "title": "כאן גימל",
+        "description": "",
+        "date": "",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3?dist=coolsite",
+        "media_type": "audio"
+    },
+    {
+        "id": "5",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/10.jpg",
+        "title": "כאן ב",
+        "description": "",
+        "date": "",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3?dist=coolsite",
+        "media_type": "audio"
+    },
+    {
+        "id": "6",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/1.jpg",
+        "title": "כאן 88",
+        "description": "",
+        "date": "",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3?dist=coolsite",
+        "media_type": "audio"
+    },
+    {
+        "id": "7",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/5.jpg",
+        "title": "רדיוס 100FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "8",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/47.jpg",
+        "title": "דרום 101.5FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "9",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/14.jpg",
+        "title": "דרום",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "10",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/36.jpg",
+        "title": "ערוץ הכנסת",
+        "description": "",
+        "date": "",
+        "stream_url": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8",
+        "media_type": "video"
+    },
+    {
+        "id": "11",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/12.jpg",
+        "title": "שירי אהבה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il/radiolove",
+        "media_type": "video"
+    },
+    {
+        "id": "12",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/61.jpg",
+        "title": "קצב ים תיכוני",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il:1040/;",
+        "media_type": "video"
+    },
+    {
+        "id": "13",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/17.jpg",
+        "title": "קליק לים התיכון",
+        "description": "",
+        "date": "",
+        "stream_url": "https://icecast.live/yamfm",
+        "media_type": "video"
+    },
+    {
+        "id": "14",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/27.jpg",
+        "title": "קול הים האדום",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "15",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/51.jpg",
+        "title": "מזרחית",
+        "description": "",
+        "date": "",
+        "stream_url": "https://mzr.mediacast.co.il/mzradio",
+        "media_type": "video"
+    },
+    {
+        "id": "16",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/57.jpg",
+        "title": "המזרח",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il:9089/;",
+        "media_type": "video"
+    },
+    {
+        "id": "79",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/67.jpg",
+        "title": "BeatFM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://securestreams2.autopo.st:1242/live",
+        "media_type": "video"
+    },
+    {
+        "id": "80",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/18.jpg",
+        "title": "Classic FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://media-ssl.musicradio.com/ClassicFM",
+        "media_type": "video"
+    },
+    {
+        "id": "81",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/63.jpg",
+        "title": "Jazz FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://jazzfm91.streamb.live/SB00009",
+        "media_type": "video"
+    },
+    {
+        "id": "82",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/73.jpg",
+        "title": "MUZIKA 106.4FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdna.streamgates.net/TheBest/live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "83",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/76.jpg",
+        "title": "Radio Salsa Tel Aviv",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il/salsa",
+        "media_type": "video"
+    },
+    {
+        "id": "84",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/69.jpg",
+        "title": "Up2Dance Radio",
+        "description": "",
+        "date": "",
+        "stream_url": "https://icecast.live/proxy/up2dance/up2dance",
+        "media_type": "video"
+    },
+    {
+        "id": "85",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/45.jpg",
+        "title": "Первое радио 89.1FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Pervoia/Audio/playlist.m3u8",
+        "media_type": "video"
+    },
+    {
+        "id": "86",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/46.jpg",
+        "title": "הרדיו הבינתחומי",
+        "description": "",
+        "date": "",
+        "stream_url": "https://1062onair.idc.ac.il/idc123.mp3",
+        "media_type": "audio"
+    },
+    {
+        "id": "87",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/20.jpg",
+        "title": "כאן מורשת",
+        "description": "",
+        "date": "",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_MORESHET.mp3?dist=coolsite",
+        "media_type": "audio"
+    },
+    {
+        "id": "88",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/26.jpg",
+        "title": "כאן קול המוסיקה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3?dist=coolsite",
+        "media_type": "audio"
+    },
+    {
+        "id": "89",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/74.jpg",
+        "title": "כאן רקע",
+        "description": "",
+        "date": "",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_REKA.mp3?dist=coolsite",
+        "media_type": "audio"
+    },
+    {
+        "id": "90",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/28.jpg",
+        "title": "כאן תרבות",
+        "description": "",
+        "date": "",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=coolsite",
+        "media_type": "audio"
+    },
+    {
+        "id": "91",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/68.jpg",
+        "title": "עברי שש",
+        "description": "",
+        "date": "",
+        "stream_url": "https://streaming.radio.co/sa06221901/listen",
+        "media_type": "video"
+    },
+    {
+        "id": "92",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/19.jpg",
+        "title": "קול הקמפוס 106FM",
+        "description": "",
+        "date": "",
+        "stream_url": "http://106fm.livecdn.biz:7075/;stream.mp3",
+        "media_type": "audio"
+    },
+    {
+        "id": "93",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/43.jpg",
+        "title": "קול רמת השרון",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/1036",
+        "media_type": "video"
+    },
+    {
+        "id": "94",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/70.jpg",
+        "title": "69FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://live.ecast.co.il/stream/69fm",
+        "media_type": "video"
+    },
+    {
+        "id": "95",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/7.jpg",
+        "title": "99FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://eco-live.mediacast.co.il/99fm_aac",
+        "media_type": "video"
+    },
+    {
+        "id": "96",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/22.jpg",
+        "title": "א-שמס - الشمس",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "97",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/58.jpg",
+        "title": "אורנים",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/oranim",
+        "media_type": "video"
+    },
+    {
+        "id": "98",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/44.jpg",
+        "title": "אלכרמל (راديو الكرمل)",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il:1060/waelhalabi/1/web",
+        "media_type": "video"
+    },
+    {
+        "id": "99",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/49.jpg",
+        "title": "ביט",
+        "description": "",
+        "date": "",
+        "stream_url": "http://www.radio-beat.com/server1",
+        "media_type": "video"
+    },
+    {
+        "id": "100",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/54.jpg",
+        "title": "ברסלב - קול הנחל",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cast.ereznet.co.il/radio/8070/radio.mp3",
+        "media_type": "audio"
+    },
+    {
+        "id": "101",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/65.jpg",
+        "title": "גלי אשקלונט",
+        "description": "",
+        "date": "",
+        "stream_url": "https://s4.radio.co/s6765540c3/listen",
+        "media_type": "video"
+    },
+    {
+        "id": "102",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/59.jpg",
+        "title": "הקצה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "103",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/15.jpg",
+        "title": "התחנה 101.5",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "104",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/75.jpg",
+        "title": "זה רוק",
+        "description": "",
+        "date": "",
+        "stream_url": "https://icecast.live/proxy/zerock/zerock",
+        "media_type": "video"
+    },
+    {
+        "id": "105",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/77.jpg",
+        "title": "חדש על הגל",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il:8020/;",
+        "media_type": "video"
+    },
+    {
+        "id": "106",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/33.jpg",
+        "title": "חולמים מזרחית",
+        "description": "",
+        "date": "",
+        "stream_url": "http://liveradio.co.il:8070/;",
+        "media_type": "video"
+    },
+    {
+        "id": "107",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/38.jpg",
+        "title": "חוף אילת",
+        "description": "",
+        "date": "",
+        "stream_url": "https://ec1.yesstreaming.net:3815/stream?ver=258837",
+        "media_type": "video"
+    },
+    {
+        "id": "108",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/11.jpg",
+        "title": "חיפה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://1075.livecdn.biz/radiohaifa",
+        "media_type": "video"
+    },
+    {
+        "id": "109",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/50.jpg",
+        "title": "חם אש",
+        "description": "",
+        "date": "",
+        "stream_url": "https://995.livecdn.biz/995fm",
+        "media_type": "video"
+    },
+    {
+        "id": "110",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/79.jpg",
+        "title": "חמש ישראל",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio5.ecast.co.il/stream/live",
+        "media_type": "video"
+    },
+    {
+        "id": "111",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/40.jpg",
+        "title": "יאסו",
+        "description": "",
+        "date": "",
+        "stream_url": "http://radio-yasoo.ath.cx:7500/;",
+        "media_type": "video"
+    },
+    {
+        "id": "112",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/25.jpg",
+        "title": "ירושלים",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/JerusalemRadio/Live/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "113",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/55.jpg",
+        "title": "כחול יוון",
+        "description": "",
+        "date": "",
+        "stream_url": "https://icecast.live/proxy/livegreece/livegreece",
+        "media_type": "video"
+    },
+    {
+        "id": "114",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/3.jpg",
+        "title": "לב המדינה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "115",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/41.jpg",
+        "title": "מהות החיים",
+        "description": "",
+        "date": "",
+        "stream_url": "https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "116",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/66.jpg",
+        "title": "מרטיט מיתר בלב",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il/wet",
+        "media_type": "video"
+    },
+    {
+        "id": "117",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/37.jpg",
+        "title": "נטו",
+        "description": "",
+        "date": "",
+        "stream_url": "https://live.ecast.co.il/stream/radioneto1",
+        "media_type": "video"
+    },
+    {
+        "id": "118",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/34.jpg",
+        "title": "סהר",
+        "description": "",
+        "date": "",
+        "stream_url": "https://live.ecast.co.il/stream/sahar",
+        "media_type": "video"
+    },
+    {
+        "id": "119",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/39.jpg",
+        "title": "סול",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/sol",
+        "media_type": "video"
+    },
+    {
+        "id": "120",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/62.jpg",
+        "title": "צפון 104.5",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "121",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/42.jpg",
+        "title": "קבלה FM",
+        "description": "",
+        "date": "",
+        "stream_url": "http://icecast.kab.tv/heb.mp3http://icecast.kab.tv/heb.mp3",
+        "media_type": "audio"
+    },
+    {
+        "id": "122",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/52.jpg",
+        "title": "קול אחר 106FM",
+        "description": "",
+        "date": "",
+        "stream_url": "http://gb35.streamgates.net/ariel106fm/audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "123",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/31.jpg",
+        "title": "קול ברמה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "124",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/64.jpg",
+        "title": "קול הגולן",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il/kolhagolan",
+        "media_type": "video"
+    },
+    {
+        "id": "125",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/60.jpg",
+        "title": "קול הגליל העליון 105.3FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/galil",
+        "media_type": "video"
+    },
+    {
+        "id": "126",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/32.jpg",
+        "title": "קול הכנרת",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/kinneret",
+        "media_type": "video"
+    },
+    {
+        "id": "127",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/53.jpg",
+        "title": "קול המרכז",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il:9070/;",
+        "media_type": "video"
+    },
+    {
+        "id": "128",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/71.jpg",
+        "title": "קול השפלה",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/1036kh",
+        "media_type": "video"
+    },
+    {
+        "id": "129",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/21.jpg",
+        "title": "קול חי",
+        "description": "",
+        "date": "",
+        "stream_url": "https://media2.93fm.co.il/live-new",
+        "media_type": "video"
+    },
+    {
+        "id": "130",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/30.jpg",
+        "title": "קול יזרעאל 106FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/yezreel",
+        "media_type": "video"
+    },
+    {
+        "id": "131",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/35.jpg",
+        "title": "קול נתניה 106FM",
+        "description": "",
+        "date": "",
+        "stream_url": "https://radio.streamgates.net/stream/netanya",
+        "media_type": "video"
+    },
+    {
+        "id": "132",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/23.jpg",
+        "title": "קול רגע",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+        "media_type": "video"
+    },
+    {
+        "id": "133",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/72.jpg",
+        "title": "קצב מזרחית",
+        "description": "",
+        "date": "",
+        "stream_url": "https://liveradio.co.il/radio_i",
+        "media_type": "video"
+    },
+    {
+        "id": "134",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/56.jpg",
+        "title": "רן (פרסית)",
+        "description": "",
+        "date": "",
+        "stream_url": "http://185.80.220.12:8047/stream",
+        "media_type": "video"
+    },
+    {
+        "id": "135",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/48.jpg",
+        "title": "שירי דיכאון",
+        "description": "",
+        "date": "",
+        "stream_url": "https://diki.mediacast.co.il/diki",
+        "media_type": "video"
+    },
+    {
+        "id": "136",
+        "category": "רדיו ישראלי",
+        "logo": "https://radio.coolsite.co.il/images/small/2.jpg",
+        "title": "תשעים",
+        "description": "",
+        "date": "",
+        "stream_url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+        "media_type": "video"
+    }
+]
